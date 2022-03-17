@@ -9,8 +9,9 @@ Class Countries extends Controller{
                 $records .= "<tr>
                 <th scope='row'>" . $record->id . "</th>
                 <td> " . $record->name . "</td>
-                <td> " . $record->color . "</td>
-                <td> " . $record->price . "</td>";
+                <td> " . $record->capitalCity . "</td>
+                <td> " . $record->continent . "</td>
+                <td> " . $record->population . "</td>";
             }
 
         }catch(PDOException $e){

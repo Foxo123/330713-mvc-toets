@@ -28,8 +28,9 @@
                         <tr>
                             <th scope="col">id</th>
                             <th scope="col">name</th>
-                            <th scope="col">color</th>
-                            <th scope="col">kosten</th>
+                            <th scope="col">capital city</th>
+                            <th scope="col">continent</th>
+                            <th scope="col">population</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -39,7 +40,6 @@
                     </tbody>
                 </table>
             </div>
-            <a href="./create" style="padding-top: 10px;"><button type="button" class="btn btn-secondary">artikel aanmaken</button></a>
         </div>
     </div>
 
