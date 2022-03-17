@@ -8,5 +8,7 @@
 </head>
 <body>
     <a href="<?= URLROOT ?>/fruits/index">Fruits</a>
+    <a href="<?= URLROOT ?>/countries/index">landen overzicht</a>
+    
 </body>
 </html>

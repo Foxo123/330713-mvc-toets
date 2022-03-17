@@ -10,7 +10,7 @@ define('DB_NAME', 'mvcworkbench');
 define('APPROOT', dirname(dirname(__FILE__)));
 
 //url root
-define('URLROOT', 'http://mvc-workbench.org');
+define('URLROOT', 'http://mvc-toets.org');
 
 //sitename
 define('SITENAME', 'MVC framework');
